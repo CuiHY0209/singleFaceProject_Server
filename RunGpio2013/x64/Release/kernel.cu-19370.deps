@@ -1,0 +1,453 @@
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include\cuda_runtime.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt/host_config.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\crtdefs.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\sal.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\concurrencysal.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\vadefs.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt/host_defines.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\limits.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\stddef.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\library_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_device_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt/common_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\host_defines.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_memory.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_memcpy_s.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\errno.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_string.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstring.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\time.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wtime.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\math_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\host_defines.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\math.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdlib.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_malloc.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_search.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdlib.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\cmath
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\yvals.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\yvals_core.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\xkeycheck.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\crtdefs.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_new_debug.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_new.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\use_ansi.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\cstdlib
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\math.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\xtgmath.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\xtr1common
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\math_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt/device_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\device_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\device_double_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\device_double_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\sm_20_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\sm_32_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\sm_35_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\sm_32_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\sm_60_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\sm_20_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\sm_30_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\sm_32_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\sm_35_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\sm_32_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\sm_61_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\sm_70_rt.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_fetch_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_indirect_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_indirect_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_launch_parameters.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\iostream
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\istream
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\ostream
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\ios
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\xlocnum
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\climits
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\cstdio
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_stdio_config.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\streambuf
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\xiosbase
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\xlocale
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\cstring
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\stdexcept
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\exception
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\type_traits
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\xstddef
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\cstddef
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\initializer_list
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\malloc.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_exception.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\eh.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_terminate.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\xstring
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\xmemory0
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\cstdint
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\stdint.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\limits
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\ymath.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\cfloat
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\float.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\cwchar
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\wchar.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wconio.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wctype.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wdirect.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wio.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_share.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wprocess.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\sys/stat.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\sys/types.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\new
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\xutility
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\utility
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\iosfwd
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\xatomic0.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\intrin0.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\typeinfo
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_typeinfo.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\xlocinfo
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\xlocinfo.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\ctype.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\locale.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\memory
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\xmemory
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\xfacet
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\system_error
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\cerrno
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\xcall_once.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\xerrc.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\share.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include\cuda.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include\cuda_runtime.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include\device_launch_parameters.h
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/cvdef.h
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/version.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/hal/interface.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\core\cv_cpu_dispatch.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\intrin.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\setjmp.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\immintrin.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\wmmintrin.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\nmmintrin.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\smmintrin.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\tmmintrin.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\pmmintrin.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\emmintrin.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\xmmintrin.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\mmintrin.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\zmmintrin.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\ammintrin.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\array
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\algorithm
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\iterator
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\tuple
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/base.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/opencv_modules.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/cvstd.hpp
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\cctype
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\string
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\xstring_insert.h
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/ptr.inl.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/neon_utils.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/vsx_utils.hpp
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\assert.h
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/check.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/base.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/traits.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/matx.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/saturate.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/fast_math.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/types.hpp
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\vector
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/mat.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/bufferpool.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/mat.inl.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/persistence.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/operations.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/cvstd.inl.hpp
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\complex
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\sstream
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/utility.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core.hpp
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\functional
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/core_c.h
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/types_c.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\assert.h
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/utility.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/optim.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/ovx.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/cuda.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/cuda_types.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/cuda.inl.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/cuda.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/opencv.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/opencv_modules.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/calib3d.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/features2d.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/opencv_modules.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/flann/miniflann.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/flann/defines.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\config.h
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/affine.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/calib3d/calib3d_c.h
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/dnn.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/dnn/dnn.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/core/async.hpp
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\chrono
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\ratio
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\thr/xtimec.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\thr/xthrcommon.h
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/dnn/dict.hpp
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\map
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\xtree
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/dnn/dnn.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/dnn/layer.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/dnn.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/dnn/dnn.inl.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/dnn/utils/inference_engine.hpp
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\dnn\utils\../dnn.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/flann.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/flann/flann_base.hpp
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\general.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\matrix.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\params.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\any.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\saving.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\nn_index.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\result_set.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\set
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\all_indices.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\kdtree_index.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\dynamic_bitset.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\dist.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\heap.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\allocator.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\random.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\kdtree_single_index.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\kmeans_index.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\logger.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\stdarg.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\composite_index.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\linear_index.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\hierarchical_clustering_index.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\lsh_index.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\lsh_table.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\iomanip
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\xlocmon
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\xloctime
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\ctime
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\math.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\autotuned_index.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\ground_truth.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\index_testing.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\timer.h
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\flann\sampling.h
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/highgui.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/imgcodecs.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/videoio.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/highgui/highgui_c.h
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/imgproc/imgproc_c.h
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/imgproc/types_c.h
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/imgcodecs/imgcodecs_c.h
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/videoio/videoio_c.h
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/imgproc.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/ml.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/ml/ml.inl.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/objdetect.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/objdetect/detection_based_tracker.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/objdetect/objdetect_c.h
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\deque
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/photo.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/photo/photo_c.h
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/shape.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/shape/emdL1.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/shape/shape_transformer.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/shape/hist_cost.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/shape/shape_distance.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/stitching.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/stitching/warpers.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/stitching/detail/warpers.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/opencv_modules.hpp
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\stitching\detail\warpers_inl.hpp
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\stitching\detail\warpers.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/stitching/detail/matchers.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/opencv_modules.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/xfeatures2d/cuda.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/stitching/detail/motion_estimators.hpp
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\stitching\detail\util.hpp
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\list
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\stitching\detail\util_inl.hpp
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\queue
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\stitching\detail\util.hpp
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\stitching\detail\camera.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/stitching/detail/exposure_compensate.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/stitching/detail/seam_finders.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/opencv_modules.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/stitching/detail/blenders.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/superres.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/superres/optical_flow.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/video.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/video/tracking.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/video/background_segm.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/video/tracking_c.h
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/videostab.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/videostab/stabilizer.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/videostab/global_motion.hpp
+D:\SoftwareBody\VisualStudio2019\Community\VC\Tools\MSVC\14.16.27023\include\fstream
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/opencv_modules.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/videostab/optical_flow.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/opencv_modules.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/cudaoptflow.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/videostab/motion_core.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/videostab/outlier_rejection.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/cudaimgproc.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/videostab/motion_stabilizing.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/videostab/frame_source.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/videostab/log.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/videostab/inpainting.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/videostab/fast_marching.hpp
+c:\users\admin\desktop\opencv\release\gpu\include\opencv2\videostab\fast_marching_inl.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/videostab/fast_marching.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/videostab/deblurring.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/videostab/wobble_suppression.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/videostab/ring_buffer.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/cudaarithm.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/cudabgsegm.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/cudacodec.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/cudafeatures2d.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/cudafilters.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/cudaobjdetect.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/cudastereo.hpp
+C:\Users\admin\Desktop\opencv\Release\gpu\include\opencv2/cudawarping.hpp
+d:\runvideoaudioplayer\rungpio2013\RGBD2EIA.h

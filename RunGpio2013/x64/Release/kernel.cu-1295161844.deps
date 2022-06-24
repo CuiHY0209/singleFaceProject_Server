@@ -1,0 +1,458 @@
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include\cuda_runtime.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt/host_config.h
+E:\VS2015pro\VC\include\crtdefs.h
+E:\VS2015pro\VC\include\vcruntime.h
+E:\VS2015pro\VC\include\sal.h
+E:\VS2015pro\VC\include\ConcurrencySal.h
+E:\VS2015pro\VC\include\vadefs.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt.h
+E:\VS2015pro\VC\include\vcruntime.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt/host_defines.h
+E:\VS2015pro\VC\include\limits.h
+E:\VS2015pro\VC\include\vcruntime.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stddef.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\library_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_device_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt/common_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\host_defines.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_memory.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_memcpy_s.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\errno.h
+E:\VS2015pro\VC\include\vcruntime_string.h
+E:\VS2015pro\VC\include\vcruntime.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wtime.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\math_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\host_defines.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_malloc.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_search.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+E:\VS2015pro\VC\include\cmath
+E:\VS2015pro\VC\include\yvals.h
+E:\VS2015pro\VC\include\xkeycheck.h
+E:\VS2015pro\VC\include\crtdefs.h
+E:\VS2015pro\VC\include\vcruntime.h
+E:\VS2015pro\VC\include\use_ansi.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+E:\VS2015pro\VC\include\xtgmath.h
+E:\VS2015pro\VC\include\xtr1common
+E:\VS2015pro\VC\include\cstdlib
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\math_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt/device_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\device_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\device_double_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\device_double_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\sm_20_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\sm_32_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\sm_35_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\sm_32_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\sm_60_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\sm_20_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\sm_30_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\sm_32_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\sm_35_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\sm_32_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\sm_61_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\sm_70_rt.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_fetch_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\texture_indirect_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\surface_indirect_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\device_launch_parameters.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.1\include\vector_types.h
+E:\VS2015pro\VC\include\iostream
+E:\VS2015pro\VC\include\istream
+E:\VS2015pro\VC\include\ostream
+E:\VS2015pro\VC\include\ios
+E:\VS2015pro\VC\include\xlocnum
+E:\VS2015pro\VC\include\climits
+E:\VS2015pro\VC\include\cstdio
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_stdio_config.h
+E:\VS2015pro\VC\include\streambuf
+E:\VS2015pro\VC\include\xiosbase
+E:\VS2015pro\VC\include\xlocale
+E:\VS2015pro\VC\include\cstring
+E:\VS2015pro\VC\include\stdexcept
+E:\VS2015pro\VC\include\exception
+E:\VS2015pro\VC\include\type_traits
+E:\VS2015pro\VC\include\xstddef
+E:\VS2015pro\VC\include\cstddef
+E:\VS2015pro\VC\include\initializer_list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\malloc.h
+E:\VS2015pro\VC\include\vcruntime_exception.h
+E:\VS2015pro\VC\include\eh.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_terminate.h
+E:\VS2015pro\VC\include\xstring
+E:\VS2015pro\VC\include\xmemory0
+E:\VS2015pro\VC\include\cstdint
+E:\VS2015pro\VC\include\stdint.h
+E:\VS2015pro\VC\include\vcruntime.h
+E:\VS2015pro\VC\include\limits
+E:\VS2015pro\VC\include\ymath.h
+E:\VS2015pro\VC\include\cfloat
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\float.h
+E:\VS2015pro\VC\include\cwchar
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\wchar.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wconio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wctype.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wdirect.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_share.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wprocess.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\sys/stat.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\sys/types.h
+E:\VS2015pro\VC\include\new
+E:\VS2015pro\VC\include\vcruntime_new.h
+E:\VS2015pro\VC\include\vcruntime.h
+E:\VS2015pro\VC\include\xutility
+E:\VS2015pro\VC\include\utility
+E:\VS2015pro\VC\include\iosfwd
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\crtdbg.h
+E:\VS2015pro\VC\include\vcruntime_new_debug.h
+E:\VS2015pro\VC\include\xatomic0.h
+E:\VS2015pro\VC\include\intrin.h
+E:\VS2015pro\VC\include\vcruntime.h
+E:\VS2015pro\VC\include\setjmp.h
+E:\VS2015pro\VC\include\vcruntime.h
+E:\VS2015pro\VC\include\immintrin.h
+E:\VS2015pro\VC\include\wmmintrin.h
+E:\VS2015pro\VC\include\nmmintrin.h
+E:\VS2015pro\VC\include\smmintrin.h
+E:\VS2015pro\VC\include\tmmintrin.h
+E:\VS2015pro\VC\include\pmmintrin.h
+E:\VS2015pro\VC\include\emmintrin.h
+E:\VS2015pro\VC\include\xmmintrin.h
+E:\VS2015pro\VC\include\mmintrin.h
+E:\VS2015pro\VC\include\ammintrin.h
+E:\VS2015pro\VC\include\typeinfo
+E:\VS2015pro\VC\include\vcruntime_typeinfo.h
+E:\VS2015pro\VC\include\vcruntime.h
+E:\VS2015pro\VC\include\xlocinfo
+E:\VS2015pro\VC\include\xlocinfo.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\ctype.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\locale.h
+E:\VS2015pro\VC\include\xfacet
+E:\VS2015pro\VC\include\system_error
+E:\VS2015pro\VC\include\cerrno
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\share.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include\cuda.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include\cuda_runtime.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include\device_launch_parameters.h
+C:\Users\崔\Desktop\gpu\include\opencv2/core.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/cvdef.h
+C:\Users\崔\Desktop\gpu\include\opencv2/core/version.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/hal/interface.h
+c:\users\崔\desktop\gpu\include\opencv2\core\cv_cpu_dispatch.h
+E:\VS2015pro\VC\include\array
+E:\VS2015pro\VC\include\algorithm
+E:\VS2015pro\VC\include\xmemory
+E:\VS2015pro\VC\include\iterator
+E:\VS2015pro\VC\include\tuple
+C:\Users\崔\Desktop\gpu\include\opencv2/core/base.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/opencv_modules.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/cvstd.hpp
+E:\VS2015pro\VC\include\cctype
+E:\VS2015pro\VC\include\string
+C:\Users\崔\Desktop\gpu\include\opencv2/core/ptr.inl.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/neon_utils.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/vsx_utils.hpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\assert.h
+C:\Users\崔\Desktop\gpu\include\opencv2/core/check.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/base.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/traits.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/matx.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/saturate.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/fast_math.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/types.hpp
+E:\VS2015pro\VC\include\vector
+C:\Users\崔\Desktop\gpu\include\opencv2/core/mat.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/bufferpool.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/mat.inl.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/persistence.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/operations.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/cvstd.inl.hpp
+E:\VS2015pro\VC\include\complex
+E:\VS2015pro\VC\include\ccomplex
+E:\VS2015pro\VC\include\sstream
+E:\VS2015pro\VC\include\xcomplex
+C:\Users\崔\Desktop\gpu\include\opencv2/core/utility.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core.hpp
+E:\VS2015pro\VC\include\functional
+E:\VS2015pro\VC\include\xfunctional
+C:\Users\崔\Desktop\gpu\include\opencv2/core/core_c.h
+C:\Users\崔\Desktop\gpu\include\opencv2/core/types_c.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\assert.h
+C:\Users\崔\Desktop\gpu\include\opencv2/core.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/utility.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/optim.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/ovx.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/cuda.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/cuda_types.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/cuda.inl.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/cuda.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/opencv.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/opencv_modules.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/calib3d.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/features2d.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/opencv_modules.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/flann/miniflann.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/flann/defines.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\config.h
+C:\Users\崔\Desktop\gpu\include\opencv2/core/affine.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/calib3d/calib3d_c.h
+C:\Users\崔\Desktop\gpu\include\opencv2/dnn.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/dnn/dnn.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/core/async.hpp
+E:\VS2015pro\VC\include\chrono
+E:\VS2015pro\VC\include\ratio
+E:\VS2015pro\VC\include\thr/xtimec.h
+E:\VS2015pro\VC\include\thr/xthrcommon.h
+C:\Users\崔\Desktop\gpu\include\opencv2/dnn/dict.hpp
+E:\VS2015pro\VC\include\map
+E:\VS2015pro\VC\include\xtree
+C:\Users\崔\Desktop\gpu\include\opencv2/dnn/dnn.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/dnn/layer.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/dnn.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/dnn/dnn.inl.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/dnn/utils/inference_engine.hpp
+c:\users\崔\desktop\gpu\include\opencv2\dnn\utils\../dnn.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/flann.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/flann/flann_base.hpp
+c:\users\崔\desktop\gpu\include\opencv2\flann\general.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\matrix.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\params.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\any.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\saving.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\nn_index.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\result_set.h
+E:\VS2015pro\VC\include\set
+c:\users\崔\desktop\gpu\include\opencv2\flann\all_indices.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\kdtree_index.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\dynamic_bitset.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\dist.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\heap.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\allocator.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\random.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\kdtree_single_index.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\kmeans_index.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\logger.h
+E:\VS2015pro\VC\include\stdarg.h
+E:\VS2015pro\VC\include\vcruntime.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\composite_index.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\linear_index.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\hierarchical_clustering_index.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\lsh_index.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\lsh_table.h
+E:\VS2015pro\VC\include\iomanip
+E:\VS2015pro\VC\include\xlocmon
+E:\VS2015pro\VC\include\xloctime
+E:\VS2015pro\VC\include\ctime
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\autotuned_index.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\ground_truth.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\index_testing.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\timer.h
+c:\users\崔\desktop\gpu\include\opencv2\flann\sampling.h
+C:\Users\崔\Desktop\gpu\include\opencv2/highgui.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/imgcodecs.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/videoio.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/highgui/highgui_c.h
+C:\Users\崔\Desktop\gpu\include\opencv2/imgproc/imgproc_c.h
+C:\Users\崔\Desktop\gpu\include\opencv2/imgproc/types_c.h
+C:\Users\崔\Desktop\gpu\include\opencv2/imgcodecs/imgcodecs_c.h
+C:\Users\崔\Desktop\gpu\include\opencv2/videoio/videoio_c.h
+C:\Users\崔\Desktop\gpu\include\opencv2/imgproc.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/ml.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/ml/ml.inl.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/objdetect.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/objdetect/detection_based_tracker.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/objdetect/objdetect_c.h
+E:\VS2015pro\VC\include\deque
+C:\Users\崔\Desktop\gpu\include\opencv2/photo.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/photo/photo_c.h
+C:\Users\崔\Desktop\gpu\include\opencv2/shape.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/shape/emdL1.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/shape/shape_transformer.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/shape/hist_cost.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/shape/shape_distance.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/stitching.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/stitching/warpers.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/stitching/detail/warpers.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/opencv_modules.hpp
+c:\users\崔\desktop\gpu\include\opencv2\stitching\detail\warpers_inl.hpp
+c:\users\崔\desktop\gpu\include\opencv2\stitching\detail\warpers.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/stitching/detail/matchers.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/opencv_modules.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/xfeatures2d/cuda.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/stitching/detail/motion_estimators.hpp
+c:\users\崔\desktop\gpu\include\opencv2\stitching\detail\util.hpp
+E:\VS2015pro\VC\include\list
+c:\users\崔\desktop\gpu\include\opencv2\stitching\detail\util_inl.hpp
+E:\VS2015pro\VC\include\queue
+c:\users\崔\desktop\gpu\include\opencv2\stitching\detail\util.hpp
+c:\users\崔\desktop\gpu\include\opencv2\stitching\detail\camera.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/stitching/detail/exposure_compensate.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/stitching/detail/seam_finders.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/opencv_modules.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/stitching/detail/blenders.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/superres.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/superres/optical_flow.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/video.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/video/tracking.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/video/background_segm.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/video/tracking_c.h
+C:\Users\崔\Desktop\gpu\include\opencv2/videostab.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/videostab/stabilizer.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/videostab/global_motion.hpp
+E:\VS2015pro\VC\include\fstream
+C:\Users\崔\Desktop\gpu\include\opencv2/opencv_modules.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/videostab/optical_flow.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/opencv_modules.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/cudaoptflow.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/videostab/motion_core.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/videostab/outlier_rejection.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/cudaimgproc.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/videostab/motion_stabilizing.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/videostab/frame_source.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/videostab/log.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/videostab/inpainting.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/videostab/fast_marching.hpp
+c:\users\崔\desktop\gpu\include\opencv2\videostab\fast_marching_inl.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/videostab/fast_marching.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/videostab/deblurring.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/videostab/wobble_suppression.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/videostab/ring_buffer.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/cudaarithm.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/cudabgsegm.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/cudacodec.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/cudafeatures2d.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/cudafilters.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/cudaobjdetect.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/cudastereo.hpp
+C:\Users\崔\Desktop\gpu\include\opencv2/cudawarping.hpp
+c:\users\崔\desktop\runvideoaudioplayer\runvideoaudioplayer\rungpio2013\RGBD2EIA.h
